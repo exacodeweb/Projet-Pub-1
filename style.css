@@ -17,6 +17,7 @@ h1 {
 p {
   animation: slideIn 1s ease-out 0.5s;
   font-size: 20px;/*TAILLE DU TEXTE DU PARAGRAPHE CHANGER*/
+  color: orangered;/*COULEUR DU TITRE CHANGER*/
 }
 
 /*AJOUT DE LA NOUVELLE FONCTIONNALITE*/
